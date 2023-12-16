@@ -1,0 +1,13 @@
+name = "Server Country Flags"
+filename = "servercountryflags-1.9.2-1.20.1-FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95732798c42e5cd7e1a5d07f764169b8cbb5b77c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4853893
+project-id = 841311

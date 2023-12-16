@@ -1,0 +1,13 @@
+name = "VillagersPlus (FORGE)"
+filename = "VillagersPlus_3.0_(FORGE)_for_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15a0b4103a858b8019fc576f56821097a3739250"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4741530
+project-id = 817272

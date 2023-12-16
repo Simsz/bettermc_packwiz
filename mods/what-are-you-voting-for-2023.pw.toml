@@ -1,0 +1,13 @@
+name = "What Are You Voting For? 2023"
+filename = "whatareyouvotingfor2023-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48ec97f21c5ce5ad866141fd511b0cef772da92a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4906872
+project-id = 916844

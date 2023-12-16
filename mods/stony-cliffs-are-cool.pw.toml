@@ -1,0 +1,13 @@
+name = "Stony Cliffs Are Cool"
+filename = "StonyCliffs-v1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca8ceba9d4c390a7f591a6e2cf3cc121750201a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4873154
+project-id = 939211

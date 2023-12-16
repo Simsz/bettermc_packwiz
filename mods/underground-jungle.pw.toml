@@ -1,0 +1,13 @@
+name = "Underground Jungle"
+filename = "undergroundjungle-1.20-2.1.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "009eeb74086571f8d1e30dbf1d6e3a66caebb111"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4909146
+project-id = 918314

@@ -1,0 +1,13 @@
+name = "Better MC [FORGE] 1.20.1"
+author = "SHXRKIE"
+version = "v24 HF"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5f0166870ccfc0c6a99617db08233339c4770affeee630630ed5077a06862457"
+
+[versions]
+forge = "47.2.17"
+minecraft = "1.20.1"
